@@ -1,5 +1,14 @@
 ### Hi there 👋
+# Halo semua! 
 
+Perkenalkan nama saya **Gilang Ramadhan**.\
+
+Saya seorang **Curriculum Developer** di [Dicoding](https://www.dicoding.com/).\
+
+Saya suka bermain game.
+Saya juga seorang mahasiswa
+
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [GitHub](https://github.com/yovinus08)ku ya.
 <!--
 **yovinus08/yovinus08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

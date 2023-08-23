@@ -1,12 +1,12 @@
 ### Hi there 👋
 # Halo semua! 
 
-Perkenalkan nama saya **Gilang Ramadhan**.\
+Perkenalkan nama saya **Yovinus Maehendra**.\
 
-Saya seorang **Curriculum Developer** di [Dicoding](https://www.dicoding.com/).\
+Saya seorang **Mahasiswa** di ITKK.\
 
 Saya suka bermain game.
-Saya juga seorang mahasiswa
+Saya juga warga Kalimantan Barat.
 
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [GitHub](https://github.com/yovinus08)ku ya.
 <!--
